@@ -1,3 +1,5 @@
+> **NOTE**: If there is anything missing, incomplete, or which you'd simply like to know more about, [PLEASE open an issue](https://github.com/openscialliance/Aug-12-Faculty-Teaching-Workshop/issues)!
+
 # Faculty Fellows Teaching Workshop
 
 Materials for the Aug 12 Faculty Fellows teaching workshop. This is meant as a guide to help you determine what topics and/or practices around Open Science you might want to include in your course.
@@ -23,6 +25,8 @@ Public data repositories
  - https://datahub.io/
  - [CyVerse Data Commons](https://datacommons.cyverse.org/)
  - [Zenodo](https://zenodo.org/)
+
+Very important to consider: how are the data collected? How are the data preprocessed? [Gender Shades](http://gendershades.org/) study looked at bias in both data collection and data modeling in the context of facial recognition. Dr. Timnit Gebru is one of the leading researchers in fairness and ethics in machine learning.
 
 ### Methods
 
