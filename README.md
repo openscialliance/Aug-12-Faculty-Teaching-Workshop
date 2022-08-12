@@ -1,4 +1,4 @@
-> **NOTE**: If there is anything missing, incomplete, or which you'd simply like to know more about, [PLEASE open an issue](https://github.com/openscialliance/Aug-12-Faculty-Teaching-Workshop/issues)!
+> **NOTE**: If there is anything missing, incomplete, or which you'd simply like to know more about, [PLEASE open an issue](https://github.com/openscialliance/Aug-12-Faculty-Teaching-Workshop/issues/new)!
 
 # Faculty Fellows Teaching Workshop
 
