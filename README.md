@@ -58,6 +58,8 @@ Setting up course websites with [Jupyter Book](https://github.com/executablebook
 
 Submitting your course materials to [JOSE](https://jose.theoj.org/about).
 
+Licensing is an important consideration when posting open materials, and especially when making use of other materials. [GitHub has a great overview of licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) (and a [flowchart](https://choosealicense.com/) for choosing a license!), but it's good to be familiar with the basics.
+
 ## Intermediate
 
 ### Jupyter notebook slides
